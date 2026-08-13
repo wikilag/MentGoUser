@@ -1,0 +1,5 @@
+package com.example.mentgo_users
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
